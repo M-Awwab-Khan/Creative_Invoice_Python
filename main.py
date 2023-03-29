@@ -4,9 +4,9 @@ product2_name, product2_price = 'Computer', 598.99
 product3_name, product3_price = 'Monitor', 156.89
 
 # create a company name and information
-company_name = 'Thecleverprogrammer, inc.'
+company_name = 'CodeWithAwwab, inc.'
 company_address = '144 Kalka ji.'
-company_city = 'New Delhi'
+company_city = 'Karachi'
 
 # declare ending message
 message = 'Thanks for shopping with us today!'
